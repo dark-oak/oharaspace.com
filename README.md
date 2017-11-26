@@ -1,3 +1,3 @@
 # zyxyl.github.io
 
-these is a personal blog
+this is a personal blog
