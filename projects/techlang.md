@@ -132,6 +132,5 @@ like nrepl
 like sharepoint
 like ipython notebook
 like github+travis+appengine
-like 70s lisp goals
 like 80s smalltalk goals
 pending stuff in browser cache, and you can work on somethings just in cache, locally
