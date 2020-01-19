@@ -2,6 +2,7 @@
 
 
 ## How to start
+* create the Virtual World first
 * Start with Azure
 * Cosmos DB and a Service/Queue, all hosted (even when used as local dev)
 * C# , .net core
@@ -12,7 +13,7 @@
 * github
 * hard coded "code" (like slash commands, spells), even if only called by unit tests
 * room crud via messages
-* DAD
+* engage DAD
 * Design docs (this doc)
 * Architecture on GH pages (this)
 
@@ -89,6 +90,9 @@
 * vs GC Borg
 * spells, code, training
 * story, unlock badges, chapters, episodes
+* Alice in Wonderland
+* bots, rooms or messages, library of functions
+* bots' minds are rooms
 
 ## Random
 * Room: container/channel/chapter
