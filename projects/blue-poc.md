@@ -2,6 +2,19 @@
 
 
 ## How to start
+* need to start answering some of the tough questions now that seem to be the source of my procrastination
+* yes i love to spend more time on design and thinking than on the actual doing
+* and yes, family/kids, work, "life", takes up most of my time
+* and yes, i waste too much time reading on my phone
+* beeminder helps some, at least even gets me writing (this) every sunday
+
+### what are some of those tough questions?
+* what would this language even look like?  basic? python? blocks? legos?
+* how to make it mobile first?  ios?  web?  flutter?
+* is it even possible to make it into a business? a job? even a "side hustle"?
+
+
+## STEP 1
 * create the Virtual World first
 * Start with Azure
 * Cosmos DB and a Service/Queue, all hosted (even when used as local dev)

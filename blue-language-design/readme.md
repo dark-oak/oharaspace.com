@@ -43,7 +43,7 @@ Card = record { Suit, Rank }
 
 InvoiceNumber = field { MinLength = 3, MaxLength = 100 }
 ScannedInvoiceDate = field { MinLength = 3, MaxLength = 20 }
-InvoiceDate = field  { }
+InvoiceDate = field { }
 ScannedPurchaseOrderNumber = field { }
 ScannedInvoiceAmount = field { }
 InvoiceAmount = field { }
@@ -55,9 +55,12 @@ PurchaseOrder = record { PONumber, Company, Vendor }
 
 ScannedInvoice = record { InvoiceNumber, ScannedInvoiceDate, ScannedPurchaseOrderNumber }
 
-Invoice = record { InvoiceNumber }
+Invoice = record { InvoiceNumber, InvoiceDate, PurchaseOrder }
 
 
+HttpPost(Invoice) = 
+    -- meh
 
+HttpPut(Invoice)
 
 
