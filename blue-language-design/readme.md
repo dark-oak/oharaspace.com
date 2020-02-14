@@ -57,9 +57,10 @@ ScannedInvoice = record { InvoiceNumber, ScannedInvoiceDate, ScannedPurchaseOrde
 
 Invoice = record { InvoiceNumber, InvoiceDate, PurchaseOrder }
 
+needs different viewmodels
 
 HttpPost(Invoice) = 
-    -- meh
+    -- meh, should be more like subscribing from a queue
 
 HttpPut(Invoice)
 
