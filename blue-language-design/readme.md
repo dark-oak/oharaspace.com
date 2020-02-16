@@ -60,7 +60,7 @@ Invoice = record { InvoiceNumber, InvoiceDate, PurchaseOrder }
 needs different viewmodels
 
 HttpPost(Invoice) = 
-    -- meh, should be more like subscribing from a queue
+    -- meh, should be more like subscribing from a queue, pubsub
 
 HttpPut(Invoice)
 
