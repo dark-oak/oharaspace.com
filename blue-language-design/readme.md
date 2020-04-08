@@ -1,7 +1,9 @@
 
 
-
 # QUICK SAMPLES
+
+meh, i don't like these at all :)
+
 
 ## FUNCTION CALL
 double(x)
@@ -30,8 +32,8 @@ K = 13
 A = 14
 LowA = 1
 Rank = field [ range(2, 10), J, Q, K, A ]
-MysterySuit = field Suit or Unknown
-MysteryRank = field Rank or Unknown
+MysterySuit = field Suit or Red or Black or Unknown
+MysteryRank = field Rank or FaceCard or HighCard or LowCard or Unknown
 UnknownCard = record { MysterySuit, MysteryRank }
 Card = record { Suit, Rank }
 
