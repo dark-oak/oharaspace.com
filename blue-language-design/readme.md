@@ -2,7 +2,7 @@
 
 # QUICK SAMPLES
 
-meh, i don't like these at all :)
+meh, i don't like these at all
 
 
 ## FUNCTION CALL
