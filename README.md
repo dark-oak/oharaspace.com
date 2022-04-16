@@ -1,3 +1,3 @@
-# zyxyl.github.io
+# shane-o
 
 this is a personal blog
