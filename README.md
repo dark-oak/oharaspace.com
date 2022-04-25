@@ -1,10 +1,10 @@
-# 👋
+# 👋 Hello
 
-* 🧔‍♂️ [shane](https://shane.oharaspace.com/)
+* 🧔‍♂️ [shane-o](https://shane.oharaspace.com/)
 * 👩 [jamie](jamie/)
-* 👩 [abigael](abigael/)
-* 👩 [adaline](adaline/)
-* 👩 [annaliese](annaliese/)
-* 👩 [avangeline](avangeline/)
+* 👱‍♀️ [abigael](abigael/)
+* 👱‍♀️ [adaline](adaline/)
+* 👧 [annaliese](annaliese/)
+* 👧 [avangeline](avangeline/)
+* 👴👵 [greater ohara clan](https://www.oharasteven.com/)
 
-[family site](https://www.oharasteven.com/)
