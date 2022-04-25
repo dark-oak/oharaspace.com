@@ -1,5 +1,7 @@
 ## 👋 Oh hello
 
+<br />
+
 * [🧔‍♂️ shane-o](https://shane.oharaspace.com/)
 * [👩 jamie](jamie/)
 * [👱 abigael](abigael/)
@@ -8,4 +10,7 @@
 * [👧 avangeline](avangeline/)
 * [👴👵 greater ohara clan](https://www.oharasteven.com/)
 
-### [ℹ](https://github.com/zjaneo/oharaspace.com)
+
+<br />
+
+[✌️](https://github.com/zjaneo/oharaspace.com)
