@@ -1,18 +1,18 @@
-## 👋 Oh hello
+
+
+<p align="center" >
+  <a href="https://shane.oharaspace.com">
+    <img width="300" height="300" src="shaneo.jpg">
+    shane-o
+  </a>
+</p>
 
 <br />
 
-* [🧔‍♂️ shane-o](https://shane.oharaspace.com/)
-* [👩 jamie](jamie/)
-* [👱 abigael](abigael/)
-* [👱‍♀️ adaline](adaline/)
-* [👧 annaliese](annaliese/)
-* [👧 avangeline](avangeline/)
-* [👴👵 greater ohara clan](https://www.oharasteven.com/)
+<p align="center" >
+  <a href="https://fam.oharaspace.com">
+    <img width="150" height="200" src="oharafam.jpg">
+    & fam
+  </a>
+</p>
 
-
-both abigael and adaline are big stupid poopoo heads
-
-<br />
-
-[✌️](https://github.com/zjaneo/oharaspace.com)

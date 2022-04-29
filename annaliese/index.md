@@ -1,3 +1,0 @@
-## Annaliese
-
-🤪 howdy

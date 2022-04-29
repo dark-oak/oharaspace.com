@@ -1,3 +1,0 @@
-## Adaline
-
-abiagel sucks 👹
