@@ -3,6 +3,7 @@
 <p align="center" >
   <a href="https://shane.oharaspace.com">
     <img width="300" height="300" src="shaneo.jpg">
+    <br />
     shane-o
   </a>
 </p>
@@ -11,8 +12,9 @@
 
 <p align="center" >
   <a href="https://fam.oharaspace.com">
-    <img width="150" height="200" src="oharafam.jpg">
     & fam
+    <br />
+    <img width="300" height="400" src="oharafam.jpg">
   </a>
 </p>
 
